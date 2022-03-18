@@ -29,6 +29,6 @@ public class GitNotlar {
      * ->git branch -- mevcut branchlari listeler
      * ->git branch aaa  -- aaa adinda yeni branch olusturur ve bu branch main branch in 1 e 1 clone u olur!!
      * ->git checkout aaa  --  aaa branch ina gecis yapar!!
-     *  2.40
+     *  2.40   bbb
      */
 }
