@@ -9,6 +9,7 @@ public class GitNotlar {
      * git status --> add diyip kanca taktiklarimiz mavi renkte eklenmeyenler kirmizi renkte görünür
      * herhangi bir degisiklik yaptigimiz dosyalar (modified) kirmizi olur hemen
      * git add . ---> kirmizi olan bütün class lari dosyalari ekler. gitignore eklediklerimiz haric
+     * git commit -m"All Project Files Uploaded(yazmak istediginiz mesaj)" ---> dosyamizi kaydetmis oluruz
      *
      */
 }
